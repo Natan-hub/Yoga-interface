@@ -96,11 +96,11 @@ strong {
     color: #000;
 }
 
+.img-link {
+    margin: 0px 18px;
+}
+
 .container {
     text-align: center;
     margin: 18px auto 80px auto;
-}
-
-.img-link {
-    margin: 0px 18px;
 }
